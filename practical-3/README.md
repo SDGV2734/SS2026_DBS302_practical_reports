@@ -22,7 +22,7 @@ To design and implement a scalable **e-commerce database schema** using MongoDB,
 
 MongoDB is a NoSQL document-oriented database that stores data in flexible JSON-like documents (BSON).
 
-### 🔹 Key Concepts Used
+###  Key Concepts Used
 
 - **Embedding vs Referencing**
     - Orders → Embedded items

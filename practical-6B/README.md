@@ -6,7 +6,6 @@ $$
 
 $$
 \Large \mathbf{\textsf{Computing Technologies Department  }}
-
 $$
 
 $$
